@@ -26,7 +26,7 @@ A curated list of machine learning for anomaly detection resources, inspired by 
 
 ## Datasets
 
-  * [DARPA](https://www.ll.mit.edu/ideval/data/)
+  * [DARPA](https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-data-set)
   * [KDD Cup 1999](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
   * [ISCX IDS](http://www.unb.ca/cic/datasets/ids.html)
 
